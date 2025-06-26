@@ -1,3 +1,3 @@
 # mahek_test
-For testing purpose
+For testing purpose.
 Demo for using git and github
